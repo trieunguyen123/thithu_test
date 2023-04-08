@@ -1,1 +1,2 @@
-day la week6
+day la main
+day la week6 va main
